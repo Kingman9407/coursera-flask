@@ -1,0 +1,10 @@
+
+theia@theiadocker-aseemnajeer:/home/project/coursera-flask/final_project/oaqjp-final-project
+-emb-ai$ python3 test_emotion_detection.py
+.....
+----------------------------------------------------------------------
+Ran 5 tests in 0.633s
+
+OK
+theia@theiadocker-aseemnajeer:/home/project/coursera-flask/final_project/oaqjp-final-project
+-emb-ai$ 
